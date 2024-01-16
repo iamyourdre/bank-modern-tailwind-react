@@ -8,7 +8,7 @@ npm run dev
 ```
 
 2. Update `tailwind.config.js`
-2. Update `src/index.css`
+3. Update `src/index.css`
 
 ## Materials/References
 
